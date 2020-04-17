@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774262290453",
+    "firebase_url": "https://infodes-fc3fc.firebaseio.com",
+    "project_id": "infodes-fc3fc",
+    "storage_bucket": "infodes-fc3fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774262290453:android:e7460cf0a1fc07be7f361c",
+        "android_client_info": {
+          "package_name": "com.example.infodes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774262290453-ig243ah7htfco2hc7g9nuo12amgorq98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.infodes",
+            "certificate_hash": "c4d9bc7a11d182aa53e4bb8c9c68f6e11793f3b1"
+          }
+        },
+        {
+          "client_id": "774262290453-krjhbdf2hjpsutucik1o44aabme2to6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3q-XUM1VA7Yv47dHzqoTZwZw1cmd3Jug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774262290453-krjhbdf2hjpsutucik1o44aabme2to6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
